@@ -118,8 +118,7 @@ def display_response(message):
 
 
 # List of options
-list_names = ['Custom Control', 'Picking', 'Payment of Public Service and Administration',
-              'Suppliers', 'Contact', 'Solutionary']
+list_names = ['Custom Control', 'Picking', 'Payment_of_Public_Service_and_Administration','Suppliers', 'Contact', 'Solutionary']
 
 # Initialize the app window
 app = tk.Tk()
